@@ -1,0 +1,9 @@
+title=HomeStream
+major_version=1
+minor_version=0
+build_version=1
+mm_icon_focus_hd=icon.png
+mm_icon_focus_sd=icon.png
+bs_mode=on
+ui_resolutions=hd
+

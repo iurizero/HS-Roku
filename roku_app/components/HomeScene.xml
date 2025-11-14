@@ -1,0 +1,7 @@
+<component name="HomeScene" extends="Scene">
+    <script type="text/brightscript" uri="HomeScene.brs" />
+    <children>
+        <RowList id="lista" />
+    </children>
+</component>
+
